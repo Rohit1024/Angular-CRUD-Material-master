@@ -6,7 +6,7 @@ Step by step article on [Angular 8/9/10 MEAN Stack Tutorial – Build CRUD App w
 ## Start MEAN Stack App
 Start Angular app & install required dependencies
 
-- git clone https://github.com/SinghDigamber/Angular8MeanstackAngularMaterial.git
+- git clone https://github.com/Rohit1024/Angular-CRUD-Material-master.git
 - Run `npm install` from the root of the project
 - run `ng serve --open` to start angular 
 
